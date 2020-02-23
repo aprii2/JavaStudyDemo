@@ -140,4 +140,76 @@ public class StringTest {
         String strEmpty = "";
         String strNull = null;
     }
+
+    @Test
+    public void testNew() {
+//        StringBuilder sb1 = new StringBuilder();
+//        StringBuilder sb2 = new StringBuilder(100);
+
+        String str1 = "hello";
+        str1 += ",";
+        str1 += "world";
+        str1 += ".";
+        System.out.println(str1);
+
+        StringBuilder sb1 = new StringBuilder();
+        sb1.append("hello");
+        sb1.append(',');
+        sb1.append("world");
+        sb1.append('.');
+        System.out.println(sb1.length());
+        System.out.println(sb1.toString());
+    }
+
+    @Test
+    public void testNew2() {
+        String str1 = "hello";
+        str1 += ",";
+        str1 += "world";
+        str1 += ".";
+        System.out.println(str1);
+
+        StringBuffer sb1 = new StringBuffer();
+        sb1.append("hello");
+        sb1.append(',');
+        sb1.append("world");
+        sb1.append('.');
+        System.out.println(sb1.length());
+        System.out.println(sb1.toString());
+
+        sb1.setLength(10);
+        System.out.println(sb1.toString());
+
+        sb1.setLength(20);
+        System.out.println(sb1.toString());
+    }
+
+    @Test
+    public void testOpt() {
+        long start = System.currentTimeMillis();
+        String str = "";
+        for (int i = 0; i < 50000; i++) {
+            //StringBuilder放在循环里面优化的
+            StringBuilder tmp = new StringBuilder();
+            tmp.append(str);
+            tmp.append(i);
+            str = tmp.toString();
+        }
+        System.out.println(str.length());
+        System.out.println("耗时：" + (System.currentTimeMillis() - start) + "ms");
+    }
+
+    @Test
+    public void testOpt1() {
+        long start = System.currentTimeMillis();
+        String str = "";
+        StringBuilder sb = new StringBuilder();
+        for (int n = 0; n < 50000; n++) {
+            sb.append(n);
+        }
+        str = sb.toString();
+        System.out.println(str.length());
+        System.out.println(String.format("耗时： %d ms",(System.currentTimeMillis() - start)));
+
+    }
 }
