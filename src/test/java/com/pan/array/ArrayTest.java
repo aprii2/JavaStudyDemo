@@ -42,4 +42,25 @@ public class ArrayTest {
         System.out.println(Arrays.toString(arr9));
 
     }
+
+    @Test
+    public void testTraversal() {
+        // 用三种方法遍历
+        Integer[] arr = {1, 2, 3, 4, 5};
+
+        System.out.println("第一种for循环遍历");
+        for (int index = 0; index < arr.length; index ++){
+            System.out.println(String.format("下标： %d，存放的值是：%d",index,arr[index]));
+        }
+
+        System.out.println("第二种for each循环遍历");
+        int index = 0;
+        for (int val : arr) {
+            System.out.println(String.format("下标： %d，存放的值是：%d",index,val));
+            index ++;
+        }
+
+        System.out.println("第三种lambda表达式");
+        Arrays.asList(arr).forEach(val -> System.out.println("值是" + val));
+    }
 }
