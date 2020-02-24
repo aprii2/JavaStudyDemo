@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="191e2075-d16e-44be-9e00-41bf2aeb6223" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/string/CheckUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/string/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/string/CheckUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/string/StringUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/array/ArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pan/string/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pan/string/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pan/string/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pan/string/StringTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +21,8 @@
       <file leaf-file-name="CheckUtilsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/string/CheckUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="53" column="58" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
+            <state relative-caret-position="254">
+              <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,11 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckUtils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/array/ArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/string/CheckUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="572">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -74,8 +80,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/pan/string/StringUtilsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pan/string/StringUtils.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/pan/string/CheckUtilsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pan/string/CheckUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/string/CheckUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/array/ArrayTest.java" />
       </list>
     </option>
   </component>
@@ -104,8 +111,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="727" />
-    <option name="y" value="5" />
+    <option name="x" value="810" />
     <option name="width" value="1425" />
     <option name="height" value="1065" />
   </component>
@@ -116,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,7 +193,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -195,16 +202,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="string" type="462c0819:PsiDirectoryNode" />
-              <item name="CheckUtilsTest" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-              <item name="StringUtilsTest" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -240,9 +237,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,6 +252,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pan" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -268,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CheckUtilsTest.testEquals2">
+  <component name="RunManager" selected="TestNG.ArrayTest.testSetValue">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -297,6 +298,64 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
       <module name="" />
+    </configuration>
+    <configuration name="ArrayTest.testArrayDeclare" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pan.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.pan.array" />
+      <option name="MAIN_CLASS_NAME" value="com.pan.array.ArrayTest" />
+      <option name="METHOD_NAME" value="testArrayDeclare" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="ArrayTest.testSetValue" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pan.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.pan.array" />
+      <option name="MAIN_CLASS_NAME" value="com.pan.array.ArrayTest" />
+      <option name="METHOD_NAME" value="testSetValue" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="CheckUtilsTest.testEquals" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo" />
@@ -385,64 +444,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="CheckUtilsTest.testIsEmpty" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pan.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.pan.string" />
-      <option name="MAIN_CLASS_NAME" value="com.pan.string.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="testIsEmpty" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="CheckUtilsTest.testNull" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pan.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.pan.string" />
-      <option name="MAIN_CLASS_NAME" value="com.pan.string.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="testNull" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -467,18 +468,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.CheckUtilsTest.testIsAnyEmpty" />
-      <item itemvalue="TestNG.CheckUtilsTest.testIsEmpty" />
-      <item itemvalue="TestNG.CheckUtilsTest.testNull" />
       <item itemvalue="TestNG.CheckUtilsTest.testEquals" />
       <item itemvalue="TestNG.CheckUtilsTest.testEquals2" />
+      <item itemvalue="TestNG.ArrayTest.testArrayDeclare" />
+      <item itemvalue="TestNG.ArrayTest.testSetValue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ArrayTest.testSetValue" />
+        <item itemvalue="TestNG.ArrayTest.testArrayDeclare" />
         <item itemvalue="TestNG.CheckUtilsTest.testEquals2" />
         <item itemvalue="TestNG.CheckUtilsTest.testIsAnyEmpty" />
         <item itemvalue="TestNG.CheckUtilsTest.testEquals" />
-        <item itemvalue="TestNG.CheckUtilsTest.testNull" />
-        <item itemvalue="TestNG.CheckUtilsTest.testIsEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -493,52 +494,53 @@
       <option name="presentableId" value="Default" />
       <updated>1582377377492</updated>
       <workItem from="1582377378877" duration="5936000" />
-      <workItem from="1582424961717" duration="24348000" />
+      <workItem from="1582424961717" duration="24872000" />
+      <workItem from="1582509537613" duration="1544000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckUtilsTest_testIsEmpty - 2020.02.23 at 21h 36m 01s.xml">
-      <configuration name="CheckUtilsTest.testIsEmpty" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testNull - 2020.02.23 at 22h 07m 41s.xml">
-      <configuration name="CheckUtilsTest.testNull" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testNull - 2020.02.23 at 22h 08m 06s.xml">
-      <configuration name="CheckUtilsTest.testNull" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testEquals - 2020.02.23 at 22h 51m 57s.xml">
-      <configuration name="CheckUtilsTest.testEquals" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testEquals - 2020.02.23 at 22h 52m 25s.xml">
-      <configuration name="CheckUtilsTest.testEquals" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testEquals2 - 2020.02.23 at 22h 55m 27s.xml">
-      <configuration name="CheckUtilsTest.testEquals2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testEquals2 - 2020.02.23 at 22h 56m 39s.xml">
-      <configuration name="CheckUtilsTest.testEquals2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2020.02.23 at 22h 56m 46s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CheckUtilsTest_testEquals2 - 2020.02.23 at 22h 59m 56s.xml">
       <configuration name="CheckUtilsTest.testEquals2" configurationId="TestNG" />
     </history-entry>
     <history-entry file="CheckUtilsTest_testEquals2 - 2020.02.23 at 23h 00m 21s.xml">
       <configuration name="CheckUtilsTest.testEquals2" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CheckUtilsTest_testEquals2 - 2020.02.23 at 23h 01m 44s.xml">
+      <configuration name="CheckUtilsTest.testEquals2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CheckUtilsTest_testEquals2 - 2020.02.23 at 23h 02m 37s.xml">
+      <configuration name="CheckUtilsTest.testEquals2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ArrayTest_testArrayDeclare - 2020.02.24 at 10h 04m 26s.xml">
+      <configuration name="ArrayTest.testArrayDeclare" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ArrayTest_testSetValue - 2020.02.24 at 10h 07m 44s.xml">
+      <configuration name="ArrayTest.testSetValue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ArrayTest_testSetValue - 2020.02.24 at 10h 10m 29s.xml">
+      <configuration name="ArrayTest.testSetValue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ArrayTest_testSetValue - 2020.02.24 at 10h 13m 59s.xml">
+      <configuration name="ArrayTest.testSetValue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ArrayTest_testSetValue - 2020.02.24 at 10h 17m 27s.xml">
+      <configuration name="ArrayTest.testSetValue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ArrayTest_testSetValue - 2020.02.24 at 10h 22m 58s.xml">
+      <configuration name="ArrayTest.testSetValue" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30284000" />
+    <option name="totallyTimeSpent" value="32352000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="582" y="4" width="1140" height="852" extended-state="0" />
+    <frame x="648" y="0" width="1140" height="852" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3272727" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32587412" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -550,9 +552,8 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.33006993" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" weight="0.35027727" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.35027727" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.2495379" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -564,6 +565,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +574,29 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/string/CheckUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="61" lean-forward="true" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/string/CheckUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/string/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
@@ -607,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,20 +662,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/string/CheckUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/string/CheckUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="53" column="58" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
+        <state relative-caret-position="254">
+          <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/string/CheckUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/array/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="324">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
