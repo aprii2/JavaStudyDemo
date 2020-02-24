@@ -63,4 +63,37 @@ public class ArrayTest {
         System.out.println("第三种lambda表达式");
         Arrays.asList(arr).forEach(val -> System.out.println("值是" + val));
     }
+
+    @Test
+    public void testCopy() {
+        Integer[] arr1 = {1,2,3,4,5};
+        Integer[] arr2 = {6,7,8,9,10};
+
+        Integer[] arr11 = new Integer[3];
+        arr11[0] = arr1[0];
+        arr11[1] = arr1[1];
+        arr11[2] = arr1[2];
+        System.out.println("arr11 = " + Arrays.toString(arr11));
+
+        // 拷贝arr1的前三位元素到一个新的数组
+        Integer[] arr12 = Arrays.copyOf(arr1,3);
+        System.out.println("arr12 = " + Arrays.toString(arr12));
+
+        // 拷贝arr1的第1到3位元素(不包括第3位)到一个新的数组
+        Integer[] arr14 = Arrays.copyOfRange(arr1,0,2);
+        System.out.println("arr14 = " + Arrays.toString(arr14));
+
+        //拷贝arr1的后三位元素到一个新的数组
+        Integer[] arr13 = Arrays.copyOfRange(arr1,arr1.length - 3,arr1.length);
+        System.out.println("arr13 = " + Arrays.toString(arr13));
+
+        //拷贝数组arr2 的后三位到arr1的后三位
+        System.arraycopy(arr2,arr2.length - 3, arr1, arr1.length - 3,3);
+        System.out.println("arr1 = " + Arrays.toString(arr1));
+
+
+
+
+
+    }
 }
