@@ -2,30 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="191e2075-d16e-44be-9e00-41bf2aeb6223" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/leetcode/LeetCode1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/leetcode/LeetCode167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/ClassAccess4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassCreateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassMethodParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticImportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassThisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/CreateClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/PkgTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/classobject/VarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/leetcode/LeetCode167Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/leetcode/LeetCode1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/CopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/InterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/MasterManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pan/array/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pan/array/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pan/array/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pan/array/ArrayTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,128 +30,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClassThisTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassThisTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassAccess.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-              <folding>
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassAccess2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassAccess3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassAccess4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/ClassAccess4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassStaticTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-              <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PkgTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/PkgTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassStaticImport.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticImport.java">
+      <file leaf-file-name="Interface2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Interface2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
               <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassStaticImportTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticImportTest.java">
+      <file leaf-file-name="InterfaceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/InterfaceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="242">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassCreateTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassCreateTest.java">
+      <file leaf-file-name="InterfaceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/InterfaceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding>
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CopyTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/CopyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -171,6 +99,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -179,6 +108,8 @@
     <findStrings>
       <find>String.java</find>
       <find>String</find>
+      <find />
+      <find>employee</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -218,6 +149,19 @@
         <option value="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticImport.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticImportTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassCreateTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Manager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/MasterManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Student.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/AbstractTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Interface2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/InterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Interface.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/Employee.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/interfaces/CopyTest.java" />
       </list>
     </option>
   </component>
@@ -246,9 +190,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="811" />
+    <option name="x" value="703" />
+    <option name="y" value="17" />
     <option name="width" value="1424" />
-    <option name="height" value="1038" />
+    <option name="height" value="1033" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -283,13 +228,6 @@
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="javademo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -314,7 +252,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pan" type="462c0819:PsiDirectoryNode" />
-              <item name="classobject" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -353,18 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ClassStaticImportTest.testUser1">
-    <configuration name="ClassStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pan.classobject.ClassStaticTest" />
-      <module name="demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pan.classobject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="TestNG.CopyTest.testCopy">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -394,20 +321,20 @@
       <option name="WORKING_DIRECTORY" />
       <module name="" />
     </configuration>
-    <configuration name="ClassAccess.testInnerAcl" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AbstractTest.testPrint" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pan.classobject.*" />
+          <option name="PATTERN" value="com.pan.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.pan.classobject" />
-      <option name="MAIN_CLASS_NAME" value="com.pan.classobject.ClassAccess" />
-      <option name="METHOD_NAME" value="testInnerAcl" />
+      <option name="PACKAGE_NAME" value="com.pan.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="com.pan.interfaces.AbstractTest" />
+      <option name="METHOD_NAME" value="testPrint" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -423,20 +350,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="ClassStaticImportTest.testUser1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CopyTest.testCopy" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pan.classobject.*" />
+          <option name="PATTERN" value="com.pan.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.pan.classobject" />
-      <option name="MAIN_CLASS_NAME" value="com.pan.classobject.ClassStaticImportTest" />
-      <option name="METHOD_NAME" value="testUser1" />
+      <option name="PACKAGE_NAME" value="com.pan.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="com.pan.interfaces.CopyTest" />
+      <option name="METHOD_NAME" value="testCopy" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -452,19 +379,48 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="ClassThisTest.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="InterfaceTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pan.classobject.*" />
+          <option name="PATTERN" value="com.pan.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.pan.classobject" />
-      <option name="MAIN_CLASS_NAME" value="com.pan.classobject.ClassThisTest" />
+      <option name="PACKAGE_NAME" value="com.pan.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="com.pan.interfaces.InterfaceTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="InterfaceTest.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pan.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.pan.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="com.pan.interfaces.InterfaceTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -481,20 +437,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="PkgTest.testPkg" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="InterfaceTest.testInterface" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pan.classobject.*" />
+          <option name="PATTERN" value="com.pan.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.pan.classobject" />
-      <option name="MAIN_CLASS_NAME" value="com.pan.classobject.PkgTest" />
-      <option name="METHOD_NAME" value="testPkg" />
+      <option name="PACKAGE_NAME" value="com.pan.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="com.pan.interfaces.InterfaceTest" />
+      <option name="METHOD_NAME" value="testInterface" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -533,19 +489,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.ClassThisTest.test1" />
-      <item itemvalue="TestNG.ClassAccess.testInnerAcl" />
-      <item itemvalue="Application.ClassStaticTest" />
-      <item itemvalue="TestNG.PkgTest.testPkg" />
-      <item itemvalue="TestNG.ClassStaticImportTest.testUser1" />
+      <item itemvalue="TestNG.AbstractTest.testPrint" />
+      <item itemvalue="TestNG.InterfaceTest.test1" />
+      <item itemvalue="TestNG.InterfaceTest" />
+      <item itemvalue="TestNG.InterfaceTest.testInterface" />
+      <item itemvalue="TestNG.CopyTest.testCopy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ClassStaticImportTest.testUser1" />
-        <item itemvalue="TestNG.PkgTest.testPkg" />
-        <item itemvalue="Application.ClassStaticTest" />
-        <item itemvalue="TestNG.ClassAccess.testInnerAcl" />
-        <item itemvalue="TestNG.ClassThisTest.test1" />
+        <item itemvalue="TestNG.CopyTest.testCopy" />
+        <item itemvalue="TestNG.InterfaceTest.testInterface" />
+        <item itemvalue="TestNG.InterfaceTest" />
+        <item itemvalue="TestNG.InterfaceTest.test1" />
+        <item itemvalue="TestNG.AbstractTest.testPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -563,52 +519,52 @@
       <workItem from="1582424961717" duration="24872000" />
       <workItem from="1582509537613" duration="20351000" />
       <workItem from="1582537881608" duration="13607000" />
-      <workItem from="1582595994092" duration="7281000" />
+      <workItem from="1582595994092" duration="22011000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetCode1Test_testTargetIndex2 - 2020.02.24 at 14h 50m 49s.xml">
-      <configuration name="LeetCode1Test.testTargetIndex2" configurationId="TestNG" />
+    <history-entry file="EmployeeTest_testObjectMethod - 2020.02.25 at 14h 35m 20s.xml">
+      <configuration name="EmployeeTest.testObjectMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeetCode1Test_testTargetIndex2 - 2020.02.24 at 14h 56m 46s.xml">
-      <configuration name="LeetCode1Test.testTargetIndex2" configurationId="TestNG" />
+    <history-entry file="EmployeeTest_testObjectMethod - 2020.02.25 at 14h 35m 51s.xml">
+      <configuration name="EmployeeTest.testObjectMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeetCode1Test_testTargetIndex2 - 2020.02.24 at 15h 01m 19s.xml">
-      <configuration name="LeetCode1Test.testTargetIndex2" configurationId="TestNG" />
+    <history-entry file="EmployeeTest_testObjectMethod - 2020.02.25 at 14h 39m 15s.xml">
+      <configuration name="EmployeeTest.testObjectMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ClassMethodParamTest - 2020.02.24 at 23h 43m 00s.xml">
-      <configuration name="ClassMethodParamTest" configurationId="TestNG" />
+    <history-entry file="EmployeeTest_testObjectMethod - 2020.02.25 at 14h 40m 59s.xml">
+      <configuration name="EmployeeTest.testObjectMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ClassMethodParamTest_testModifyMethodParam - 2020.02.25 at 00h 11m 16s.xml">
-      <configuration name="ClassMethodParamTest.testModifyMethodParam" configurationId="TestNG" />
+    <history-entry file="AbstractTest_testPrint - 2020.02.25 at 15h 35m 39s.xml">
+      <configuration name="AbstractTest.testPrint" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ClassThisTest_test1 - 2020.02.25 at 00h 19m 36s.xml">
-      <configuration name="ClassThisTest.test1" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_test1 - 2020.02.25 at 16h 27m 37s.xml">
+      <configuration name="InterfaceTest.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ClassAccess_testInnerAcl - 2020.02.25 at 10h 21m 57s.xml">
-      <configuration name="ClassAccess.testInnerAcl" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_test1 - 2020.02.25 at 16h 28m 59s.xml">
+      <configuration name="InterfaceTest.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PkgTest_testPkg - 2020.02.25 at 11h 30m 25s.xml">
-      <configuration name="PkgTest.testPkg" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_test1 - 2020.02.25 at 16h 30m 37s.xml">
+      <configuration name="InterfaceTest.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ClassStaticImportTest_testUser1 - 2020.02.25 at 11h 41m 36s.xml">
-      <configuration name="ClassStaticImportTest.testUser1" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_test1 - 2020.02.25 at 16h 33m 56s.xml">
+      <configuration name="InterfaceTest.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ClassStaticImportTest_testUser1 - 2020.02.25 at 11h 42m 25s.xml">
-      <configuration name="ClassStaticImportTest.testUser1" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_testInterface - 2020.02.25 at 16h 53m 58s.xml">
+      <configuration name="InterfaceTest.testInterface" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72047000" />
+    <option name="totallyTimeSpent" value="86777000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="649" y="0" width="1139" height="830" extended-state="0" />
+    <frame x="760" y="13" width="1139" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32357043" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3195435" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -616,12 +572,13 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32994455" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.32178932" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32853025" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.32467532" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32756132" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" weight="0.36077705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.27382055" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.2495379" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -633,8 +590,37 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.32467532" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" weight="0.27382055" />
+      <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.2495379" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32756132" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.3366619" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3195435" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32994455" />
+      <window_info id="Favorites" order="5" sideWeight="0.50139666" side_tool="true" weight="0.2495379" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -644,73 +630,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/CreateClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/VarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassMethodParamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/string/CheckUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassThisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/string/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/string/CheckUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="52" column="61" lean-forward="true" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/string/CheckUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -804,13 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/array/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3608">
@@ -828,17 +744,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/string/StringUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/string/CheckUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -909,33 +821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/ClassAccess4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -947,21 +832,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassCreateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="211">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/PkgTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticImportTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+        <state relative-caret-position="220">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -979,26 +866,189 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticImportTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/PkgTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="310">
+          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassCreateTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassStaticTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="66">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/ClassAccess4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/ClassAccess2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/MasterManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/AbstractTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1457">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/string/StringUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Interface2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/InterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/InterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/interfaces/CopyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1019,7 +1069,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1079,7 +1129,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
