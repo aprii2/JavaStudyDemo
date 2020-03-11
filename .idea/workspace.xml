@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="191e2075-d16e-44be-9e00-41bf2aeb6223" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/list/ListStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/map/MapTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/list/ListStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/list/ListStudy.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,20 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ListStudy.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/list/ListStudy.java">
+      <file leaf-file-name="MapTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/map/MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="205" column="17" selection-start-line="205" selection-start-column="17" selection-end-line="205" selection-end-column="17" />
+            <state relative-caret-position="319">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <file leaf-file-name="SetSimpleUse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/collection/SetSimpleUse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="510" selection-start-line="510" selection-end-line="510" />
+            <state relative-caret-position="338">
+              <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -78,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/pan/array/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/pan/leetcode/LeetCode1Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/pan/leetcode/LeetCode167Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pan/leetcode/LeetCode1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pan/leetcode/LeetCode167.java" />
@@ -129,6 +128,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/pan/collection/SetSimpleUse.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/pan/collection/MapSimpleUse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pan/list/ListStudy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pan/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/map/MapTest.java" />
       </list>
     </option>
   </component>
@@ -157,9 +158,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="938" />
+    <option name="x" value="941" />
     <option name="width" value="1140" />
-    <option name="height" value="1038" />
+    <option name="height" value="944" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,8 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,7 +222,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="pan" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -255,11 +254,23 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="pan" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pan" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListStudy">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="CollectionSimpleUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pan.collection.CollectionSimpleUser" />
       <module name="demo" />
@@ -322,6 +333,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pan.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pan.Test" />
+      <module name="demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,35 +406,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="CalcMinMaxTest.testCalc2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pan.innerclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.pan.innerclass" />
-      <option name="MAIN_CLASS_NAME" value="com.pan.innerclass.CalcMinMaxTest" />
-      <option name="METHOD_NAME" value="testCalc2" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -436,19 +429,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.CalcMinMaxTest.testCalc2" />
       <item itemvalue="TestNG.ArraySequenceTest.testPrint" />
       <item itemvalue="Application.CollectionSimpleUser" />
       <item itemvalue="Application.SetSimpleUse" />
       <item itemvalue="Application.ListStudy" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ListStudy" />
         <item itemvalue="Application.SetSimpleUse" />
         <item itemvalue="Application.CollectionSimpleUser" />
         <item itemvalue="TestNG.ArraySequenceTest.testPrint" />
-        <item itemvalue="TestNG.CalcMinMaxTest.testCalc2" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +464,8 @@
       <workItem from="1582766734486" duration="624000" />
       <workItem from="1582965318728" duration="9955000" />
       <workItem from="1583469222514" duration="14899000" />
-      <workItem from="1583551861396" duration="11691000" />
+      <workItem from="1583551861396" duration="12187000" />
+      <workItem from="1583804298878" duration="6515000" />
     </task>
     <servers />
   </component>
@@ -508,10 +502,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143826000" />
+    <option name="totallyTimeSpent" value="150837000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="751" y="0" width="912" height="830" extended-state="0" />
+    <frame x="753" y="0" width="912" height="755" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -523,11 +518,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32994455" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49765807" visible="true" weight="0.2929293" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26984128" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49765807" visible="true" weight="0.3317152" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26638177" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49714285" weight="0.37704918" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49714285" weight="0.66627634" />
       <window_info anchor="right" id="Database" order="6" weight="0.3293247" />
       <window_info id="Structure" order="1" sideWeight="0.50285715" side_tool="true" weight="0.3676815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -546,28 +541,28 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.32467532" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" weight="0.27382055" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.2495379" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32756132" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.3366619" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3195435" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32994455" />
       <window_info id="Favorites" order="5" sideWeight="0.50139666" side_tool="true" weight="0.2495379" />
@@ -585,14 +580,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/NoPkgClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/CreateClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/classobject/VarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -793,9 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,16 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,10 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,16 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/collection/SetSimpleUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1238">
-          <caret line="105" column="20" lean-forward="true" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -942,10 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
-          <folding>
-            <element signature="e#6336#6337#0" expanded="true" />
-            <element signature="e#6404#6405#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -958,8 +914,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/list/ListStudy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="205" column="17" selection-start-line="205" selection-start-column="17" selection-end-line="205" selection-end-column="17" />
+        <state relative-caret-position="436">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/collection/SetSimpleUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/map/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
